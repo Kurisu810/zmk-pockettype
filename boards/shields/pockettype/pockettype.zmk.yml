@@ -1,0 +1,10 @@
+file_format: "1"
+id: pockettype
+name: pockettype
+type: shield
+url: https://mechboards.co.uk/products/pockettype?variant=40366789361869
+requires:
+  - nice_nano_v2
+features:
+  - keys
+  - studio
